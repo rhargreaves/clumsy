@@ -1,2 +1,2 @@
-# clumsy
-CLuMSY: Command Line Music Synthesier
+# CLuMSY
+Command Line Music Synthesier
