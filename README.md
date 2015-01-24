@@ -1,2 +1,2 @@
 # CLuMSY
-Command Line Music Synthesier
+Command Line Music Synthesizer
