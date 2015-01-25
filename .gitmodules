@@ -1,0 +1,3 @@
+[submodule "ada"]
+	path = ada
+	url = https://github.com/rhargreaves/ada.git
